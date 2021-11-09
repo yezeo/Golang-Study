@@ -173,4 +173,4 @@ func main() {
 
 1. if, else if, else
 2. "신중히 생각해보세요"가 출력된다.
-3. [코드](./pr03.go)
+3. [코드](prob3/prob3.go)
