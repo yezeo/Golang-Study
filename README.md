@@ -18,9 +18,9 @@
 |01|21.10.13|3장, 4장, 5장|`김윤서` | [📗](https://gdscewha.tistory.com/entry/1%EC%A3%BC%EC%B0%A8-Go-%EC%96%B8%EC%96%B4-%EC%9E%85%EB%AC%B8%ED%95%98%EA%B8%B0-%EA%B0%9C%EB%85%90-%EB%B3%80%EC%88%98-%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95)|
 |02|21.11.03|6장, 7장, 8장|`김하연` | [📗](https://gdscewha.tistory.com/entry/2%EC%A3%BC%EC%B0%A8-Go-%EC%96%B8%EC%96%B4%EC%9D%98-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%A8%EC%88%98-%EC%83%81%EC%88%98?category=969297)|
 |03|21.11.10|9장, 10장, 11장|`장예서` |  [📗](https://gdscewha.tistory.com/entry/3%EC%A3%BC%EC%B0%A8-Go%EC%96%B8%EC%96%B4%EC%9D%98-if-switch-for) |
-|04|21.11.17|12장, 13장, 14장| `김선영`| |
-|05|21.11.24|15장, 16장|`김윤서` | |
-|06|21.12.01|17장, 18장|`김하연` | |
+|04|21.11.17|12장, 13장, 14장| `김선영`| [📗](https://gdscewha.tistory.com/entry/4%EC%A3%BC%EC%B0%A8-Go-%EC%96%B8%EC%96%B4%EC%9D%98-%EB%B0%B0%EC%97%B4-%EA%B5%AC%EC%A1%B0%EC%B2%B4-%ED%8F%AC%EC%9D%B8%ED%84%B0?category=969297) |
+|05|21.11.24|15장, 16장|`김윤서` | [📗](https://gdscewha.tistory.com/entry/5%EC%A3%BC%EC%B0%A8-Chapter-1516-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8C%A8%ED%82%A4%EC%A7%80?category=969297) |
+|06|21.12.01|17장, 18장|`김하연` | [📗](https://gdscewha.tistory.com/entry/6%EC%A3%BC%EC%B0%A8-%EC%88%AB%EC%9E%90-%EB%A7%9E%EC%B6%94%EA%B8%B0-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-Go-%EC%96%B8%EC%96%B4%EC%9D%98-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4?category=969297) |
 |07|21.12.08|19장, 20장, 21장|`장예서` | |
 |08|21.12.29|22장, 23장|`김선영` | |
 |09|22.01.05|24장, 25장|`김윤서` | |
