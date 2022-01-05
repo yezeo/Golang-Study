@@ -1,5 +1,4 @@
 # Chapter 23. Error Handling
-
 ## 23.1 에러 반환
 
 기본 처리: 에러 반환 후 알맞게 처리
