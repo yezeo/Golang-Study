@@ -1,4 +1,4 @@
-# Chapter 4 RESTful API 서버 만들기
+# Chapter 30 RESTful API 서버 만들기
 
 ## 30.1 해법
 
